@@ -9,10 +9,25 @@ this repository:
 ---
 
 # Project List
-### 1. Project Name: Planes
-- Description:
+### 1. Project Name: Books
+- Description: This code provides a basic system to manage information about eBooks and PrintBooks, reading data from a file and offering various methods to display book details.
 - Technologies Used: Blue J.
 
+### 2. Project Name: Client Passwords
+- Description: This code implements a graphical user interface (GUI) application for managing client passwords. Users can add clients, generate passwords, save data to a file, and lookup passwords for existing clients.
+- Technologies Used: Blue J.
+
+### 3. Project Name: Planes
+- Description: This code simulates a program for managing airplane information. It allows users to create airplanes (CargoPlane or PassengerPlane), display information about all airplanes, and then check which airplanes have a maximum payload capacity greater than or equal to a user-specified value.
+- Technologies Used: Blue J.
+
+### 4. Project Name: Properties
+- Description:  This code provides a basic structure for managing properties, including residential properties and business properties. It allows for calculating monthly rent for both residential and business properties based on specific criteria.
+- Technologies Used: Blue J.
+
+### 5. Project Name: Student_Marks_Calculator
+- Description: This code simulates a program for managing student information and marks. It allows users to enter student information, calculate final marks, and then find the student with the highest final mark.
+- Technologies Used: Blue J.
 ---
 
 # Contributing
